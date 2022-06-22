@@ -1,7 +1,7 @@
 # Importing libraries
 import sys
 # import pytube # library for downloading youtube videos
-import youtube_dl
+import yt_dlp as youtube_dl
 import json
 import os
 from subprocess import run

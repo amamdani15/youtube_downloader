@@ -1,2 +1,3 @@
 youtube-dl
 slack-webhook
+yt-dlp
